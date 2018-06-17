@@ -1,0 +1,80 @@
+nav {  padding: 30px;
+
+background-color:silver}
+
+.container { width:100%;
+            padding:50;
+            background-color: cornflowerblue;
+            height: 500px;
+            position: absolute;
+            bottom: 50px;
+            right: 10px;
+            left: 10px;
+            }
+
+.toprow {width:80%;
+         height:100px;
+         background-color: white;
+         padding: 20px;
+         color: lightslategray;
+         
+
+
+}
+
+.col-4 { background-color: darkgrey;
+        height: 100px;
+        color: chartreuse;
+        text-align: center;
+        padding: 30px;
+        border: solid 2px red;
+
+    
+
+    
+
+}
+
+.pic { border-image: 3px yellow solid;
+       height: 40px;
+       weight: 40px;
+
+
+}
+
+.col4 { font-size: 18px;
+        background-color: silver;
+        padding:25px;
+        height: 65px;
+        color: chartreuse;
+
+}
+
+h2 { font-size: 16px;
+    background-color: darkorange;
+    padding:10px;
+     margin: 0%;
+     text-align: left;
+     height:80px;
+     width: 80px;
+
+
+}
+
+.bottomrow {width:80%;
+height:50px;
+background-color: white;
+padding: 20px;
+
+}
+
+body { background-color: silver
+}
+
+
+.floats {  border: red solid 1px;
+           padding-bottom: 20px;
+           
+           
+
+}
